@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: ${DB_URL}
+    username: ${DB_USER}
+    password: ${DB_PASS}
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+
