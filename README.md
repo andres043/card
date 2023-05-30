@@ -7,7 +7,7 @@
 
 ### Base de datos
 
-<img src="C:\projects\pruebas\credibanco\credit-card\src\main\resources\static\diagram.png"/>
+<img src="C:\projects\pruebas\credibanco\card\src\main\resources\static\diagram.png"/>
 
 * No es necesario ejecutar scripts, ya que el proyecto cuenta con flyway, el cual se encarga de gestionar las versiones de la BD
 
